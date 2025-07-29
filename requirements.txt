@@ -1,7 +1,9 @@
 pandas
 streamlit
-openai
 altair
 altair_saver
+openai
+python-dotenv
+pyarrow
 prophet==1.1.5
-numpy==1.23.5
+matplotlib
