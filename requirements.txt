@@ -8,3 +8,4 @@ pyarrow
 matplotlib
 prophet==1.1.5
 numpy==1.23.5
+openpyxl>=3.1.2
