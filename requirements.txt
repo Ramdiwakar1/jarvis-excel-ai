@@ -1,0 +1,9 @@
+streamlit
+pandas
+openai
+altair
+altair_saver
+prophet==1.1.5
+matplotlib
+pyarrow
+cmdstanpy
