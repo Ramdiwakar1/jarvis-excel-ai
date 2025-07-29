@@ -3,7 +3,7 @@ pandas
 openai
 altair
 altair_saver
-prophet==1.1.5
+prophet==1.23.5
 matplotlib
 pyarrow
 cmdstanpy
